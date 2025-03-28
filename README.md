@@ -1,2 +1,3 @@
-# curriculum_translator
-A program that translates your curriculum from Portuguese to English
+# Curriculum Translator
+## A program that translates your curriculum from Portuguese to English
+The program generates a TXT with all PDF lines of your curriculum translated
